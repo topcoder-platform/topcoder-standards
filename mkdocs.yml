@@ -1,0 +1,10 @@
+site_name: tcprojWrapper
+repo_url: https://github.com/topcoderinc/tcProjWrapper
+pages:
+    - tcProjWrapper:
+      - 'This Project introduction': index.md
+      - mkdocs: mkDocsIndex.md
+    - Project: project.md
+    - Standards:
+      - 'ECS Deploy Standard': 'Standards/ECS Deploy.md'
+theme_dir: cinder/site
